@@ -1,0 +1,6 @@
+{
+  "name": "kogi-sales-copilot",
+  "version": "1.0.0",
+  "description": "AI Sales Copilot pro telco operátory | Kogi CON",
+  "engines": { "node": ">=18" }
+}
