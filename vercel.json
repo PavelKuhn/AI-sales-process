@@ -1,5 +1,4 @@
 {
   "name": "kogi-sales-copilot",
-  "version": "1.0.0",
-  "engines": { "node": ">=18" }
+  "version": "1.0.0"
 }
